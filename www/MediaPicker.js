@@ -40,4 +40,6 @@ var MediaPicker = {
     }
 };
 
+
+window.MediaPicker = MediaPicker;
 module.exports = MediaPicker;
